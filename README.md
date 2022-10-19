@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Live version: [Create React App](https://portfolio-v2-nine-mu.vercel.app/).
+Live version: [Portfolio v2](https://portfolio-v2-nine-mu.vercel.app/).
 
 ## Available Scripts
 
