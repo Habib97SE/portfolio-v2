@@ -1,8 +1,6 @@
-YouTube Tutorial on how I built this portfolio => https://youtu.be/ESHaail1eGc
-
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live version: [Portfolio v2](https://portfolio-v2-nine-mu.vercel.app/).
 
 ## Available Scripts
 
