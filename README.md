@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live version: [Create React App](https://portfolio-v2-nine-mu.vercel.app/).
 
 ## Available Scripts
 
